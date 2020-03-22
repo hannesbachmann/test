@@ -1,0 +1,8 @@
+git init -> erstellen eines leeren repositorys
+
+git add -> hinzufügen von Dokumenten
+git reset -> entfernen von Dokumenten
+git commit -> fertiges hinzufügen zu projekt
+
+git push -> hochladen des Dokuments bzw Projekts
+git pull -> zurücknehmen des Projekts
